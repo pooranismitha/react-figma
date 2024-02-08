@@ -1,0 +1,9 @@
+.add-to-file{
+    margin-top: 100px;
+}
+@media screen and (max-width:600px){
+    .add-to-file{
+        margin-top: 100px;
+    }
+
+}

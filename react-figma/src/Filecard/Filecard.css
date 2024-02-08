@@ -1,0 +1,144 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.sub-class{
+    background-color:#FAFAFA;
+    /* height: 240px; */
+    /* width: 100%; */
+    /* display: flex;
+    flex-direction: row; */
+    border-radius: 5px;
+    
+
+
+
+}
+.sub-classes{
+    background-color:#FAFAFA;
+    height: 240px;
+    width: 110%;
+    display: flex;
+    flex-direction: row;
+    border-radius: 5px;
+    margin-left: 40px;
+
+
+}
+.variant{
+    text-align: right;
+    
+}
+ .letgo{
+    background-color: black;
+    height: 35px;
+    width: 35%;
+    border-radius: 4px;
+    color: white;
+    margin-left: 60px;
+    text-align: center;
+    padding: 5px;
+
+} 
+
+.les-son-6{
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.pai-nts-3{
+    display: flex;
+    flex-direction: row;
+    margin-top: 2px;
+    justify-content:space-between;
+    /* margin-left: 30px; */
+
+}
+
+.jon-3{
+    display: flex;
+    flex-direction: row;
+    line-height: 20px;
+    margin-top: 20px;
+    
+    
+}
+.class-we23{
+    margin-left: 20px;
+}
+
+/* .days-er{
+    margin-left: 170px;
+} */
+
+.st-u-de-nts{
+    margin-left: 20px;
+}
+
+.aw-er-age{
+    margin-left: 20px;
+}
+
+.go-o-gles{
+    
+    color: black;
+    margin-top: 10px;
+    margin-left: 30px;
+    
+    
+}
+
+.sub-training{
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+
+.kan-te-r{
+    margin-left: 10px;
+}
+
+.sub-cate-gory{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.indicator-line {
+    
+    width: 100%;
+      height: 5px; 
+      background-color: yellow; 
+      border-radius: 5px; /* Add border-radius for rounded corners */
+      border: 2px dashed yellow;
+      cursor: pointer;
+}
+.poi-nts{
+    margin-top: 30px;
+    width: 93%;
+    height: 10px;
+    /* margin-left: 30px; */
+    
+}
+@media only screen and (max-width:375px) {
+    .sub-class{
+        background-color:#FAFAFA;
+        /* height: 240px; */
+        /* width: 100%; */
+
+        border-radius: 5px;
+        margin-left: 40px;
+    
+    }
+    .go-o-gles{
+    
+        color: black;
+        margin-top: 10px;
+        background-color: #FAFAFA;
+        border-radius: 5px;
+
+        
+    }
+    
+}

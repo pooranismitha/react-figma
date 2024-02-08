@@ -1,0 +1,48 @@
+.startcourse{
+    
+    background-color: black;
+    height: 20px;
+    width: 20%;
+    padding: 15px;
+    color: white;
+    border-radius: 5px;
+    font-size: medium;
+  
+  }
+
+  .laptop{
+    position: absolute;
+    margin-top: 40px;
+
+  }
+
+  .course{
+      font-weight: bold;
+      margin-top: 20px;
+      font-size: xx-large;
+  }
+  
+  .title{
+      display: flex;
+      text-align: left;
+      
+      
+  }
+  
+  .web{
+      font-weight: bold;
+      color: rgb(240, 80, 186);
+      
+  }
+  
+  .design{
+      position: relative;
+      overflow: hidden;
+      text-align: left;
+      z-index: -1;
+      margin-left: 120px;
+      margin-top: 20px;
+  }
+    
+  
+    

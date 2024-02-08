@@ -1,0 +1,267 @@
+.footer{
+    
+    background-color: #F5F5F5;
+    /* height: 500px; */
+    width: 100%;
+    border-radius: 32px;
+
+}
+.file-3{
+    margin-top: 100px;
+}
+.lorem{
+
+    height: 180px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 70px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 90px;
+    width: 90%;
+    background-color:rgb(226, 202, 248);
+
+font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.25px;
+text-align: left;
+margin-left: 20px;
+padding: 15px;
+
+
+
+
+
+}
+.groups-78-6{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.amet{
+    display: flex;
+    flex-direction: row;
+}
+.groups{
+    margin-left: 180px;
+    margin-top: 30px;
+}
+.academy-io{
+    font-weight: bold;
+    font-size: x-large;
+
+
+}
+
+
+.fotlet{
+    width: 17%;
+    margin-left: 40PX;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+
+.vellt{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+.member{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+.ship-5{
+    font-weight: bold;
+    text-align: left;
+    padding: 50px;
+    
+}
+.categories-33{
+    margin-left:40px ;
+    font-weight: bold;
+    padding: 50px;
+
+font-family: Roboto;
+font-size: 14px;
+font-weight: bold;
+line-height: 23px;
+letter-spacing: 0px;
+text-align: left;
+margin-left: 100px;
+
+}
+
+.cer-wes-78{
+
+}
+.com-po-siti-on{
+    margin-top: 20px;
+    font-weight: normal;
+}
+
+.coo-ki-ng{
+    margin-top: 5px;
+    font-weight: normal;
+
+}
+
+.a-c-cess-3{
+    font-weight: bold;
+
+font-family: Roboto;
+font-size: 14px;
+font-weight: bold;
+line-height: 23px;
+letter-spacing: 0px;
+text-align: left;
+padding: 50px;
+
+}
+
+    
+
+.com-ment-76{
+    font-weight: bold;
+    padding: 50px;
+    
+}
+
+.ells-martx{
+    margin-top: 16px;
+    background-color: #FAFAFA;
+    height: 70px;
+    width: 110%;
+    border-radius: 8px;
+    padding: 8px;
+    
+    
+
+}
+
+.martx{
+    text-align: left;
+    margin-left: 5px;
+    margin-top: 8px;
+
+    
+}
+
+.de-li-cious{
+    text-align: left;
+    font-size: small;
+    font-weight: normal;
+    margin-left: 5px;
+    font-weight: 400;
+    size: 12px;
+}
+@media screen and (max-width:768px) {
+    .groups-78-6{
+    width: 15%;
+    height: 10px;
+    
+    margin-bottom: 50px;
+
+        
+    }
+    
+}
+
+
+
+@media screen and (max-width:1024px){
+    .lorem{
+        width:35%;
+        height:190px;
+        
+    }
+}
+@media screen and (max-width:768px){
+    .lorem{
+        height: 280px;
+        width: 35%;
+    }
+    
+}
+
+@media screen and (max-width:425px){
+    .lorem{
+        height: 630px;
+        
+    }
+}
+@media screen and (max-width:375px){
+    .lorem{
+        height: 680px;
+    }
+}
+@media screen and (max-width:320px){
+    .lorem{
+        height: 900px;
+    }
+}
+@media screen and (max-width:1024px){
+    .footer{
+        height: 400px;
+    }
+}
+@media screen and (max-width:768px){
+    .footer{
+        width: 110%;
+    }
+    
+}
+@media screen and (max-width:425px){
+    .footer{
+        height: 760px;
+        width: 70%;
+    }
+}
+@media screen and (max-width:375px){
+    .footer{
+        height: 2400px;
+        width: 70%;
+    }
+}
+@media screen and (max-width:320px){
+    .footer{
+        height: 2800px;
+        width: 70%;
+    }
+}
+@media screen and (max-width:1024px){
+    .categories-33{
+        text-align: left;
+        
+    }
+    
+}
+@media screen and (max-width:768px){
+    .categories-33{
+        margin-left: 30px;
+        
+    }
+    
+}
+@media screen and (max-width:768px) {
+.com-ment-76{
+    
+    
+}
+}
+@media screen and (max-width:1024px){
+    .footer{
+        height: 900px;
+    }
+}
+@media screen and (max-width:768px) {
+    .ells-martx{
+        height: 110px;
+
+        
+        
+    
+    }
+    
+}

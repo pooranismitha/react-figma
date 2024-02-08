@@ -1,0 +1,33 @@
+.ci-pen-89{
+    color: blueviolet;
+}
+.IoVideocamOutline{
+    color: brown;
+}
+.bu-tt-on-43{
+    margin-left: 24px;
+    
+}
+.r-ar-aow-{
+margin-left: 40px;    
+
+}
+
+@media screen and (max-width:1024px) {
+    .bu-tt-on-43{
+        margin-left: 10px;
+        
+    }
+
+    
+}
+@media screen and (max-width:768px) {
+    .bu-tt-on-43{
+        -ms-text-combine-horizontal: all;
+        
+
+        
+    }
+
+    
+}

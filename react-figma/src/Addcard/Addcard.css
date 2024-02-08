@@ -1,0 +1,186 @@
+.figma-card{
+    font-size: small;
+    font-weight: bold;
+}
+
+@media screen and (max-width:600px){
+    .figma-card{
+        font-size: small;
+        font-weight: bold;
+    }
+}
+.lesson-s{
+    font-size: small;
+    color: rgb(73, 72, 72);
+    
+
+}
+@media screen and (max-width:600px) {
+    .lesson-s{
+        font-size: small;
+    color: rgb(73, 72, 72);
+    text-align: left;
+
+    }
+    
+}
+.student-s{
+    font-size: small;
+    color: rgb(73, 72, 72);
+    margin-left: 25px;
+
+}
+@media screen and (max-width:600px){
+    .student-s{
+        font-size: small;
+        color: rgb(73, 72, 72);
+        margin-left: 25px;
+
+    }
+    
+}
+.beginner-s{
+    font-size: small;
+    color: rgb(73, 72, 72);
+    margin-left: 10px;
+
+}
+@media screen and (max-width:600px){
+    .beginner-s{
+    font-size: small;
+    color: rgb(73, 72, 72);
+    margin-left: 45px;
+    }
+}
+/* .lessons-2{
+    background-color: black;
+    height: 40px;
+    width: 40%;
+    border-radius: 5px;
+    color: white;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: left;
+    
+
+} */
+.lessons-2{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    background-color: black;
+    width: 60%;
+    height: 40px;
+    color: white;
+    border-radius: 10px;
+
+}
+.le-ss-ons-43{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.ri-45-ar-34{
+    margin-top: 5px;
+    
+}
+.md-contact-page-78{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+@media screen and (max-width:600px){
+    .lessons-2{
+        background-color: black;
+        height: 40px;
+        width: 40%;
+        border-radius: 5px;
+        color: white;
+        margin-top: 20px;
+        padding: 10px;
+        text-align: left;
+        
+        
+    
+    }
+    
+
+}
+.score2{
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
+@media screen and (max-width:600px){
+    .score{
+        margin-left: 20px;
+    }
+    
+}
+.cardmodel{
+    display: flex;
+    flex-direction: row;
+}
+.cardview{
+    margin-left: 2px;
+    margin-top: 100px;
+}
+@media screen and (max-width:1024px){
+    .cardview{
+        width: 16rem;
+        
+    }
+}
+@media screen and (max-width:768px) {
+    .lesson-s{
+        text-align: left;
+
+    }
+    
+}
+@media screen and (max-width:768px) {
+    
+
+.student-s{
+    font-size: small;
+    color: rgb(73, 72, 72);
+    margin-left: 0px;
+
+}
+}
+@media screen and (max-width:768px) {
+    .beginner-s{
+    
+        
+        margin-top: 40px;
+margin-left:-80px;
+    
+    }
+    
+}
+@media screen and (max-width:375px) {
+    .beginner-s{
+    
+        
+        text-align: left;
+margin-left: 0px;
+margin-top: 0;
+    
+    }
+    
+}
+@media screen and (max-width:320px) {
+    .beginner-s{
+    
+        
+        text-align: left;
+margin-left: 0px;
+margin-top: 0;
+    
+    }
+    
+}
+
+
+
+

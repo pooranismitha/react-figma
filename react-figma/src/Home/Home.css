@@ -1,0 +1,47 @@
+.academy{
+    font-weight: bold;
+    color: black;
+}
+.fabell-33{
+    color: blueviolet;
+    height: 30px;
+    margin-left: 70px;
+
+    
+    border-radius: 4px;
+    background-color: #c9b8df0d;
+
+}
+.SiKhanacademy-s{
+    color: blueviolet;
+    height: 40px;
+    width: 100%;
+    border-radius: 5px;
+    
+}
+Form{
+    border: none;
+}
+.nav-ers-23{
+    margin-left: 60px;
+}
+.boy-esr-98{
+    display: flex;
+    flex-direction: row;
+}
+
+.boy-res-45{
+    width: 30%;
+    margin-left: 80px;
+
+    height: 50px;
+}
+.bes-hza{
+    margin-left: 10px;
+}
+@media screen and (max-width:1024px) {
+    .nav-ers-23{
+    margin-left: 10px;
+    text-align: left;
+    }
+}
